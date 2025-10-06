@@ -614,17 +614,17 @@ def show_app_content():
     # st.markdown("---")
     # render_control_panel()
     
-    st.markdown(f"""
-    <div style="text-align: center; color: {THEME_COLORS['muted']}; 
-                font-size: 12px; margin-top: 2rem; padding: 1rem;
-                background: rgba(255, 255, 255, 0.5);
-                backdrop-filter: blur(10px);
-                border-radius: 8px;">
-        <p>Alzheimer's Disease PRS | PGS000334 | 22 Associated SNPs</p>
-        <p style="font-size: 10px;">For research and educational purposes only</p>
-        <p style="font-size: 10px;">PSYC301 Coursework Project</p>
-    </div>
-    """, unsafe_allow_html=True)
+st.markdown(f"""
+<div style="text-align: center; color: {THEME_COLORS['muted']}; 
+            font-size: 12px; margin-top: 2rem; padding: 1rem;
+            background: rgba(255, 255, 255, 0.5);
+            backdrop-filter: blur(10px);
+            border-radius: 8px;">
+    <p><strong>Bocheng Shi</strong> • Student #81442386</p>
+    <p style="font-size: 10px;">PSYC 301 Coursework Project • UBC 2025W1</p>
+    <p style="font-size: 10px;">LOAD PRS Visualization | PGS000334 | 22 SNPs</p>
+</div>
+""", unsafe_allow_html=True)
     
 def main():
     if 'disclaimer_accepted' not in st.session_state:
