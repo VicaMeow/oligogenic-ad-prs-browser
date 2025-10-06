@@ -2,11 +2,11 @@
 
 **⚠️ IMPORTANT: FOR EDUCATIONAL AND RESEARCH PURPOSES ONLY**
 
-This application is developed as a coursework project for PSYC301 and is intended solely for educational demonstration and learning purposes.
+This application is developed as a coursework project for UBC PSYC_V 301 901 2025W1 Brain Dysfunction and Recovery with Dr.Steven Barnes, and is intended solely for educational demonstration and learning purposes.
 
 ## Scientific Basis
 
-• Based on polygenic risk score methodology from Zhang et al. (2020), demonstrating late-onset Alzheimer's disease exhibits oligogenic architecture with fewer than 100 causal common SNPs
+• Based on GWAS from Zhang et al. (2020), demonstrating late-onset Alzheimer's disease exhibits oligogenic architecture.
 
 • Uses 22 SNPs from PGS000334 (PGS Catalog, 2020), representing the same genetic associations from Zhang et al. (2020)
 
@@ -65,6 +65,14 @@ This application is developed as a coursework project for PSYC301 and is intende
 • Subject to change without notice
 
 • No technical support provided
+## Author Information
+
+**Course Project by:**
+- Student Name: Bocheng Shi
+- Student Number: 81442386
+- Course: PSYC_V 301 901 2025W1 - Brain Dysfunction and Recovery
+- Instructor: Dr. Steven Barnes
+- Institution: University of British Columbia, Department of Psychology
 
 ## Legal Disclaimer
 
