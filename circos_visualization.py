@@ -187,8 +187,6 @@ def create_circos_plot(genotypes, selected_snp=None, figsize=(6, 6)):
     
     ax.legend(handles=legend_elements, loc='upper left', bbox_to_anchor=(-0.1, 1.0), fontsize=8)
     
-    plt.title('AD PRS Genome Browser - Circos View', pad=10, fontsize=12, fontweight='bold')
-    
     return fig
 
 def display_circos_in_streamlit(genotypes, selected_snp=None):
